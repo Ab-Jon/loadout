@@ -1,0 +1,102 @@
+[
+  {
+    "slug": "ps5-slim",
+    "name": "PlayStation 5 Slim",
+    "category": "Consoles",
+    "description": "The current PlayStation console in the smaller chassis, with a disc drive, room for a large library, and a DualSense controller in the box.",
+    "price_cents": 49900,
+    "image_path": "/products/ps5-slim.jpg",
+    "specs": ["Disc edition", "1TB storage", "4K output up to 120Hz", "DualSense controller included"],
+    "sort_order": 1
+  },
+  {
+    "slug": "xbox-series-x",
+    "name": "Xbox Series X",
+    "category": "Consoles",
+    "description": "Microsoft's flagship console for players who want quick loads, native 4K, and access to Game Pass on the living-room screen.",
+    "price_cents": 49900,
+    "image_path": "/products/xbox-series-x.jpg",
+    "specs": ["1TB storage", "4K / 120Hz capable", "Disc drive", "Quick Resume"],
+    "sort_order": 2
+  },
+  {
+    "slug": "switch-oled",
+    "name": "Nintendo Switch OLED",
+    "category": "Consoles",
+    "description": "A hybrid console with a sharper OLED screen for handheld play and a dock for the television. Built for nights that move between the couch and the desk.",
+    "price_cents": 34900,
+    "image_path": "/products/switch-oled.jpg",
+    "specs": ["7-inch OLED screen", "Handheld and docked play", "64GB storage", "Wired LAN on the dock"],
+    "sort_order": 3
+  },
+  {
+    "slug": "pulse-27",
+    "name": "Pulse 27 Display",
+    "category": "Displays",
+    "description": "A 27-inch 1440p panel aimed at fast console and PC play. High refresh, a simple stand, and enough desk presence without taking the whole room.",
+    "price_cents": 32900,
+    "image_path": "/products/pulse-27.jpg",
+    "specs": ["27-inch 1440p", "165Hz refresh", "1ms response class", "HDMI and DisplayPort"],
+    "sort_order": 4
+  },
+  {
+    "slug": "span-34",
+    "name": "Span 34 Ultrawide",
+    "category": "Displays",
+    "description": "A 34-inch ultrawide for players who keep a map, a chat, and the match on one screen. Curved just enough to fill the peripheral view.",
+    "price_cents": 54900,
+    "image_path": "/products/span-34.jpg",
+    "specs": ["34-inch ultrawide", "144Hz refresh", "Curved panel", "HDR support"],
+    "sort_order": 5
+  },
+  {
+    "slug": "field-controller",
+    "name": "Field Wireless Controller",
+    "category": "Controls",
+    "description": "A wireless pad with a mature grip, trigger locks for shallow presses, and a charging cable in the box. Works on console and PC.",
+    "price_cents": 6900,
+    "image_path": "/products/field-controller.jpg",
+    "specs": ["Wireless", "Trigger locks", "Rechargeable", "Console and PC"],
+    "sort_order": 6
+  },
+  {
+    "slug": "hall-headset",
+    "name": "Hall Over-ear Headset",
+    "category": "Audio",
+    "description": "A closed headset for long sessions. The mic mutes with a flip, and the earcups stay comfortable past the first hour.",
+    "price_cents": 12900,
+    "image_path": "/products/hall-headset.jpg",
+    "specs": ["Over-ear", "Flip-to-mute mic", "3.5mm and USB", "Memory-foam cups"],
+    "sort_order": 7
+  },
+  {
+    "slug": "tact-keyboard",
+    "name": "Tact Mechanical Keyboard",
+    "category": "Controls",
+    "description": "A compact mechanical board with hot-swap switches and per-key lighting you can actually turn off. Built for desk setups that stay up late.",
+    "price_cents": 14900,
+    "image_path": "/products/tact-keyboard.jpg",
+    "specs": ["Hot-swap switches", "Compact layout", "USB-C", "Lighting can be switched off"],
+    "sort_order": 8
+  },
+  {
+    "slug": "glide-mouse",
+    "name": "Glide Lightweight Mouse",
+    "category": "Controls",
+    "description": "A light wireless mouse for low-sensitivity players. The shape stays neutral, and the battery lasts through a season of nightly play.",
+    "price_cents": 7900,
+    "image_path": "/products/glide-mouse.jpg",
+    "specs": ["Wireless", "Lightweight shell", "USB-C charging", "Optical sensor"],
+    "sort_order": 9
+  },
+  {
+    "slug": "arcade-controller",
+    "name": "Arcade Wireless Controller",
+    "category": "Controls",
+    "description": "A second pad for the couch, with a low-profile face and a cable for wired play when the battery runs out.",
+    "price_cents": 6400,
+    "image_path": "/products/arcade-controller.jpg",
+    "specs": ["Wireless", "Wired fallback", "Standard layout", "Console and PC"],
+    "sort_order": 10
+  }
+]
