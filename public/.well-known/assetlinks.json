@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.loadout.shop",
+      "sha256_cert_fingerprints": [
+        "CE:7B:8D:8F:51:27:C4:07:AF:9D:6F:5B:A8:85:BA:E0:B9:53:FD:1F:85:AF:03:D2:F1:F9:E5:91:A4:0C:33:EC"
+      ]
+    }
+  }
+]
